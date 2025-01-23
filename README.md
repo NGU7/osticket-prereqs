@@ -22,11 +22,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enable IIS (Internet Information Services) on the PC, allowing us to host a web server
+- Install mySQL and PHP as required for osTicket
+- Register PHP to the IIS Web server
+- Upload the osTicket Code into the Web Server
+- Enable PHP Manager Extensions to allow osTicket to run
+- Install Heidi to allow us to create a database specifically for osTicket
 
 <h2>Installation Steps</h2>
 
